@@ -1,0 +1,5 @@
+# Python >= 3.10; CPU reference implementation.
+numpy>=1.26
+torch>=2.2
+pandas>=2.0
+baostock>=0.9.1
